@@ -1,13 +1,13 @@
-package com.dailycodebuffer.mq;
+package co.com.sofka.dojoRabbit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringRabbitmqConsumerApplication {
+public class dojoRabbit {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringRabbitmqConsumerApplication.class, args);
+		SpringApplication.run(dojoRabbit.class, args);
 	}
 
 }

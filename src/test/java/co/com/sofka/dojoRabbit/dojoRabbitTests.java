@@ -1,10 +1,10 @@
-package com.dailycodebuffer.mq;
+package co.com.sofka.dojoRabbit;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringRabbitmqConsumerApplicationTests {
+class dojoRabbitTests {
 
 	@Test
 	void contextLoads() {

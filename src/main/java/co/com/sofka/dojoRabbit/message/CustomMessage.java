@@ -1,4 +1,4 @@
-package com.dailycodebuffer.mq;
+package co.com.sofka.dojoRabbit.message;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
